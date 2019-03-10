@@ -6,6 +6,7 @@ Uses a sliding window cascade classifier with trained haar features to detect ca
 ![Haar-featurs](https://docs.opencv.org/2.4/_images/haarfeatures.png)
 
 Example input image and output image with bounding box drawn on
+
 ![Cat-image](https://i.imgur.com/5hKOYSD.png)
 ![Haar-Cat](https://i.imgur.com/vSToD1s.png)
 
